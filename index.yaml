@@ -3,7 +3,17 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2025-12-16T16:26:44.046821963Z"
+    created: "2025-12-16T16:33:21.605827696Z"
+    description: A Helm chart to deploy Nginx to k8s
+    digest: db03dd8a21360afc65aaf0f6a2a85d7d693e9dfd88cfb6620f5822bf210f26c9
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-12-16T16:33:21.602115282Z"
     description: A Helm chart to deploy Nginx to k8s
     digest: 1f17f3deb21f4afd9a5e27dd2130bead56e17882cccf09ad3d1598d0c44e490c
     name: nginx
@@ -11,4 +21,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-16T16:26:44.043207262Z"
+generated: "2025-12-16T16:33:21.598514768Z"
